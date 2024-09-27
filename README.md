@@ -41,6 +41,6 @@
 ---
 
 ### :mailbox_with_mail: How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/YourLinkedInUsername)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/godwill-kiprop)
+- [Email](mailto:godwillkiprop@gmail.com)
 
