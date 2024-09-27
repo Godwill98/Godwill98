@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godwill98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/Godwill98=YourUsername&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/Godwill98=Godwill98&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
