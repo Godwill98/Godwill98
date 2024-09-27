@@ -41,6 +41,6 @@
 ---
 
 ### :mailbox_with_mail: How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/godwill-kiprop)
+- [LinkedIn](https://www.linkedin.com/in/godwill-kiplagat/)
 - [Email](mailto:godwillkiprop@gmail.com)
 
