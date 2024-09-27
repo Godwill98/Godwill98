@@ -1,9 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26FPGpC5n0hLXGOLW/giphy.gif" width="100"/>
-</div>
-<img src="https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=blue" alt=""/>
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
 
-## Hey there, I'm [Your Name] 👋
+</div>
+<img src="https://komarev.com/ghpvc/?username=Godwill98&style=flat-square&color=blue" alt=""/>
+
+## Hey there, I'm Godwill Kiplagat 👋
 - I'm a passionate developer skilled in **Python**, **Django**, and **Java**.
 - I enjoy building robust backend systems and working with modern technologies to solve real-world problems.
 
