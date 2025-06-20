@@ -5,15 +5,15 @@
 <img src="https://komarev.com/ghpvc/?username=Godwill98&style=flat-square&color=blue" alt=""/>
 
 ## Hey there, I'm Godwill Kiplagat 👋
-- I'm a passionate developer skilled in **Python**, **Django**, and **Java**.
+- I'm a passionate developer skilled in **Excel**, **Power BI**, and **SQL**.
 - I enjoy building robust backend systems and working with modern technologies to solve real-world problems.
 
 ---
 
 ### :fire: My Development Stack :
-- **Languages**: Python, Java, JavaScript
-- **Frameworks**: Django, Spring Boot, Flask
-- **Tools**: Git, Docker, Jenkins
+- **Languages**: Python, Java
+- **Frameworks**: Django, 
+- **Tools**: Git,Guthub,Postman
 - **Databases**: PostgreSQL, MySQL, MongoDB
 
 ---
@@ -33,13 +33,13 @@
 ---
 
 ### 💬 Ask Me About:
-- Building backend systems using **Django** and **Spring Boot**
-- Optimizing databases and improving performance
-- Developing clean and efficient code in **Python** and **Java**
-- Integrating CI/CD pipelines with tools like **Jenkins** and **Docker**
+Automating data workflows and report generation using Excel (Power Query, pivot tables, advanced formulas)
 
----
+Creating insightful, interactive dashboards and visualizations with Power BI
 
+Performing in-depth data analysis to uncover trends, patterns, and business opportunities
+
+Writing clean and efficient scripts in Python (Pandas, NumPy, Matplotlib) for data wrangling and analysis
 ### :mailbox_with_mail: How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/godwill-kiplagat/)
 - [Email](mailto:godwillkiprop@gmail.com)
